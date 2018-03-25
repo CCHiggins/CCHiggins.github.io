@@ -1,10 +1,9 @@
 # Dependencies
 plugins:
   - jekyll-gist
-  - redcarpet
   - jekyll-paginate
   - pygments.rb
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 
