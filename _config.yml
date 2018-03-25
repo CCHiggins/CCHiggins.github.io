@@ -2,9 +2,8 @@
 plugins:
   - jekyll-gist
   - jekyll-paginate
-  - pygments.rb
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rogue
 
 
 # Permalinks
