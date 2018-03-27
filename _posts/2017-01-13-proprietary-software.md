@@ -32,7 +32,9 @@ If you're an Apple fanboy, you aren't immune either. Apple has created a special
 
 Going forward, users dependent on the Apple software system that are seeking to upgrade their hardware will need to adapt to an adapter-ridden environment or struggle to transition away from the platform.
 
-Despite these problems, [Microsoft's stock has climbed](http://www.nasdaq.com/symbol/msft/stock-chart?intraday=off&timeframe=2y&splits=off&earnings=off&movingaverage=None&lowerstudy=volume&comparison=off&index=&drilldown=off) since Windows 10's release and Apple just posted [record quarterly earnings](https://www.apple.com/newsroom/2017/01/apple-reports-record-first-quarter-results.html) after their latest phone and computer lines. Both companies were able to make unpopular design choices and face no economic consequences because they've coaxed consumers into exclusive reliance. \\n\\nTo make matters worse, the pace at which this phenomenon happens is expanding.
+Despite these problems, [Microsoft's stock has climbed](http://www.nasdaq.com/symbol/msft/stock-chart?intraday=off&timeframe=2y&splits=off&earnings=off&movingaverage=None&lowerstudy=volume&comparison=off&index=&drilldown=off) since Windows 10's release and Apple just posted [record quarterly earnings](https://www.apple.com/newsroom/2017/01/apple-reports-record-first-quarter-results.html) after their latest phone and computer lines. Both companies were able to make unpopular design choices and face no economic consequences because they've coaxed consumers into exclusive reliance.
+
+To make matters worse, the pace at which this phenomenon happens is expanding.
 
 As we become reliant on technology for more day-to-day tasks, the grasp of proprietary lock-in becomes tighter. What happens when your lightbulbs, locks, refrigerator, and other various household objects come with embedded software that is dependent on other software and devices? Imagine a world in which stocking every item in your house becomes a question of compatibility with your other systems. By integrating more of our lives with technology, we are slowly yielding what remains of our autonomy to the whims of Silicon Valley.
 
