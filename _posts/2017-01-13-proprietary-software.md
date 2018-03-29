@@ -2,6 +2,7 @@
 layout: post
 title: Proprietary Software Lays the Groundwork For a New Type of Tyranny
 excerpt_separator: <!--more-->
+excerpt_text: custom continue reading
 ---
 Have you ever taken an inventory of all the software or digital services that you use in your day-to-day life?
 

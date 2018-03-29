@@ -19,7 +19,11 @@ title: Home
         {{ post.excerpt }}
         <p class="continue-reading">
           <a href="{{ post.url }}">
-            ... continue reading
+            {% if post.excerpt_text %}
+              {{ post.excerpt_text }}{{ site.excerpt_text_follow }}
+            {% else %}
+              {{ site.default_excerpt_text }}{{ site.excerpt_text_follow }}  
+            {% endif %}
           </a>
         </p>
       {% endif %}
