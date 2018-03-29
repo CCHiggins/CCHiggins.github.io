@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Proprietary Software Lays the Groundwork For a New Type of Tyranny
+excerpt_separator: <!--more-->
 ---
 Have you ever taken an inventory of all the software or digital services that you use in your day-to-day life?
 
 Perhaps you *need* Microsoft Office for work. Or perhaps you *depend* on Facebook to stay in contact with friends and relatives. Maybe you *must* use a MacOS for all your other services to run correctly. What would happen if this software stops doing what you need it to do, or worse, what would happen if it disappears entirely?
 
 While questions like these have haunted IT managers for years, the average consumer doesn't give it a thought until it's already too late. In a world in which more and more of our everyday tasks are dependent on technology, we must all ask ourselves if we have given software developers too much power over our lives.
+
+<!--more-->
 
 All of the software listed above falls into a category called proprietary software. In the proprietary software business model, the publisher retains intellectual rights to the source code.
 
