@@ -16,6 +16,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 author:
   name:           'Cameron Higgins'
   url:            https://twitter.com/cam_higgz
+  twitter:        https://twitter.com/cam_higgz
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -34,4 +35,5 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             
+  home:             https://github.com/CCHiggins
