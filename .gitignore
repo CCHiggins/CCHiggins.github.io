@@ -39,7 +39,10 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+_vender
 .sass-cache
+_vendor
+.bundle
 
 # Dev stuff
 Makefile
