@@ -2,17 +2,25 @@
 
   {% if site.github.home %}
     <a id="github-link"
-       class="icon" title="Github Profile" aria-label="Github Project"
+       class="icon" title="Github Profile" aria-label="Github Profile"
        href="{{ site.github.home }}">
       {% include svg/github.svg %}
     </a>
   {% endif %}
 
-  {% if site.github.rep %}
+  {% if site.github.repo %}
     <a id="github-download-link"
        class="icon" title="Download" aria-label="Download"
        href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
       {% include svg/download.svg %}
+    </a>
+  {% endif %}
+
+  {% if site.author.twitter %}
+    <a id="twitter"
+       class="icon" title="Twitter" aria-label="Twitter"
+       href="{{ site.author.twitter }}">
+      {% include svg/twitter.svg %}
     </a>
   {% endif %}
 
