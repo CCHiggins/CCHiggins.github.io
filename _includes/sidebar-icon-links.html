@@ -3,7 +3,8 @@
   {% if site.github.home %}
     <a id="github-link"
        class="icon" title="Github Profile" aria-label="Github Profile"
-       href="{{ site.github.home }}">
+       href="{{ site.github.home }}"
+       target="_blank">
       {% include svg/github.svg %}
     </a>
   {% endif %}
@@ -11,7 +12,8 @@
   {% if site.github.repo %}
     <a id="github-download-link"
        class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
+       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip"
+       target="_blank">
       {% include svg/download.svg %}
     </a>
   {% endif %}
@@ -19,14 +21,16 @@
   {% if site.author.twitter %}
     <a id="twitter"
        class="icon" title="Twitter" aria-label="Twitter"
-       href="{{ site.author.twitter }}">
+       href="{{ site.author.twitter }}"
+       target="_blank">
       {% include svg/twitter.svg %}
     </a>
   {% endif %}
 
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/feed.xml">
+     href="{{ site.baseurl }}/feed.xml"
+     target="_blank">
     {% include svg/feed.svg %}
   </a>
 
