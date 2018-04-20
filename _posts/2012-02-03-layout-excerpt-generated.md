@@ -8,6 +8,8 @@ tags:
   - content
   - excerpt
   - layout
+  - intellectual property
+  - proprietary software
 last_modified_at: 2012-02-03T12:32:16-05:00
 ---
 
