@@ -43,6 +43,7 @@ _vender
 .sass-cache
 _vendor
 .bundle
+.tweet-cache
 
 # Dev stuff
 Makefile

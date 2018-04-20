@@ -15,3 +15,7 @@ last_modified_at: 2017-03-09T12:57:42-05:00
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This post tests Twitter Embeds.
+
+And another test.
+
+{% twitter https://twitter.com/mmistakes/status/826644109670612997 %}
